@@ -1,4 +1,4 @@
-CONTIKI = ../../..
+CONTIKI = ../../../os
 
 ifndef TARGET
 TARGET=z1
